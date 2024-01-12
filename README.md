@@ -2,4 +2,4 @@
 
 👍Integrated fields for voters to input their name, phone number, and preferred political party.
 
-👍Ensured each voter casts only one vote
+👍Ensured each voter casts only one vote.
